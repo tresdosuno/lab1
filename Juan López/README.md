@@ -19,3 +19,12 @@
 ### Tatuajes
 Mi tatuador, [Diego Lugo](https://www.instagram.com/alex_diaz350/?hl=es), es excelente. Tiene mucho talento, una mano muy cuidadosa, lo que hace que la curación de los tatuajes sea muy sencilla, y cobra muy barato. \
 En este momento 5 de mis tatuajes los hizo él, y ya tengo 4 más planeados. 
+
+
+# Parte III. - GIT BRANCHING
+
+### Git branching - main:
+![](fotos/Curso-gitbranches-main.png)
+
+### Git branching - remote:
+![](fotos/Curso-gitbranches-remote.png)
